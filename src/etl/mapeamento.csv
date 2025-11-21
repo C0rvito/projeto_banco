@@ -1,0 +1,370 @@
+nome_grupo,tipo_ensaio,id_animal,caminho_arquivo
+Grupo A,agonistas,11,data\raw\grupo_a\agonistas\AGO BCG 11.fcs
+Grupo A,agonistas,12,data\raw\grupo_a\agonistas\AGO BCG 12.fcs
+Grupo A,agonistas,13,data\raw\grupo_a\agonistas\AGO BCG 13.fcs
+Grupo A,agonistas,14,data\raw\grupo_a\agonistas\AGO BCG 14.fcs
+Grupo A,agonistas,15,data\raw\grupo_a\agonistas\AGO BCG 15.fcs
+Grupo A,agonistas,16,data\raw\grupo_a\agonistas\AGO BCG 16.fcs
+Grupo A,agonistas,17,data\raw\grupo_a\agonistas\AGO BCG 17.fcs
+Grupo A,agonistas,18,data\raw\grupo_a\agonistas\AGO BCG 18.fcs
+Grupo A,agonistas,19,data\raw\grupo_a\agonistas\AGO BCG 19.fcs
+Grupo A,agonistas,20,data\raw\grupo_a\agonistas\AGO BCG 20.fcs
+Grupo A,agonistas,11,data\raw\grupo_a\agonistas\AGO HKLM 11.fcs
+Grupo A,agonistas,12,data\raw\grupo_a\agonistas\AGO HKLM 12.fcs
+Grupo A,agonistas,13,data\raw\grupo_a\agonistas\AGO HKLM 13.fcs
+Grupo A,agonistas,14,data\raw\grupo_a\agonistas\AGO HKLM 14.fcs
+Grupo A,agonistas,15,data\raw\grupo_a\agonistas\AGO HKLM 15.fcs
+Grupo A,agonistas,16,data\raw\grupo_a\agonistas\AGO HKLM 16.fcs
+Grupo A,agonistas,17,data\raw\grupo_a\agonistas\AGO HKLM 17.fcs
+Grupo A,agonistas,18,data\raw\grupo_a\agonistas\AGO HKLM 18.fcs
+Grupo A,agonistas,19,data\raw\grupo_a\agonistas\AGO HKLM 19.fcs
+Grupo A,agonistas,20,data\raw\grupo_a\agonistas\AGO HKLM 20.fcs
+Grupo A,agonistas,11,data\raw\grupo_a\agonistas\AGO LPS 11.fcs
+Grupo A,agonistas,12,data\raw\grupo_a\agonistas\AGO LPS 12.fcs
+Grupo A,agonistas,13,data\raw\grupo_a\agonistas\AGO LPS 13.fcs
+Grupo A,agonistas,14,data\raw\grupo_a\agonistas\AGO LPS 14.fcs
+Grupo A,agonistas,15,data\raw\grupo_a\agonistas\AGO LPS 15.fcs
+Grupo A,agonistas,16,data\raw\grupo_a\agonistas\AGO LPS 16.fcs
+Grupo A,agonistas,17,data\raw\grupo_a\agonistas\AGO LPS 17.fcs
+Grupo A,agonistas,18,data\raw\grupo_a\agonistas\AGO LPS 18.fcs
+Grupo A,agonistas,19,data\raw\grupo_a\agonistas\AGO LPS 19.fcs
+Grupo A,agonistas,20,data\raw\grupo_a\agonistas\AGO LPS 20.fcs
+Grupo A,agonistas,11,data\raw\grupo_a\agonistas\AGO ODN 11.fcs
+Grupo A,agonistas,12,data\raw\grupo_a\agonistas\AGO ODN 12.fcs
+Grupo A,agonistas,13,data\raw\grupo_a\agonistas\AGO ODN 13.fcs
+Grupo A,agonistas,14,data\raw\grupo_a\agonistas\AGO ODN 14.fcs
+Grupo A,agonistas,15,data\raw\grupo_a\agonistas\AGO ODN 15.fcs
+Grupo A,agonistas,16,data\raw\grupo_a\agonistas\AGO ODN 16.fcs
+Grupo A,agonistas,17,data\raw\grupo_a\agonistas\AGO ODN 17.fcs
+Grupo A,agonistas,18,data\raw\grupo_a\agonistas\AGO ODN 18.fcs
+Grupo A,agonistas,19,data\raw\grupo_a\agonistas\AGO ODN 19.fcs
+Grupo A,agonistas,20,data\raw\grupo_a\agonistas\AGO ODN 20.fcs
+Grupo A,agonistas,11,data\raw\grupo_a\agonistas\AGO PAM3 11.fcs
+Grupo A,agonistas,12,data\raw\grupo_a\agonistas\AGO PAM3 12.fcs
+Grupo A,agonistas,13,data\raw\grupo_a\agonistas\AGO PAM3 13.fcs
+Grupo A,agonistas,14,data\raw\grupo_a\agonistas\AGO PAM3 14.fcs
+Grupo A,agonistas,15,data\raw\grupo_a\agonistas\AGO PAM3 15.fcs
+Grupo A,agonistas,16,data\raw\grupo_a\agonistas\AGO PAM3 16.fcs
+Grupo A,agonistas,17,data\raw\grupo_a\agonistas\AGO PAM3 17.fcs
+Grupo A,agonistas,18,data\raw\grupo_a\agonistas\AGO PAM3 18.fcs
+Grupo A,agonistas,19,data\raw\grupo_a\agonistas\AGO PAM3 19.fcs
+Grupo A,cryptococcus,11,data\raw\grupo_a\cryptococcus\CRYPTO NEG 11.fcs
+Grupo A,cryptococcus,12,data\raw\grupo_a\cryptococcus\CRYPTO NEG 12.fcs
+Grupo A,cryptococcus,13,data\raw\grupo_a\cryptococcus\CRYPTO NEG 13.fcs
+Grupo A,cryptococcus,14,data\raw\grupo_a\cryptococcus\CRYPTO NEG 14.fcs
+Grupo A,cryptococcus,15,data\raw\grupo_a\cryptococcus\CRYPTO NEG 15.fcs
+Grupo A,cryptococcus,16,data\raw\grupo_a\cryptococcus\CRYPTO NEG 16.fcs
+Grupo A,cryptococcus,17,data\raw\grupo_a\cryptococcus\CRYPTO NEG 17.fcs
+Grupo A,cryptococcus,18,data\raw\grupo_a\cryptococcus\CRYPTO NEG 18.fcs
+Grupo A,cryptococcus,19,data\raw\grupo_a\cryptococcus\CRYPTO NEG 19.fcs
+Grupo A,cryptococcus,20,data\raw\grupo_a\cryptococcus\CRYPTO NEG 20.fcs
+Grupo A,cryptococcus,11,data\raw\grupo_a\cryptococcus\CRYPTO POS 11.fcs
+Grupo A,cryptococcus,12,data\raw\grupo_a\cryptococcus\CRYPTO POS 12.fcs
+Grupo A,cryptococcus,13,data\raw\grupo_a\cryptococcus\CRYPTO POS 13.fcs
+Grupo A,cryptococcus,14,data\raw\grupo_a\cryptococcus\CRYPTO POS 14.fcs
+Grupo A,cryptococcus,15,data\raw\grupo_a\cryptococcus\CRYPTO POS 15.fcs
+Grupo A,cryptococcus,16,data\raw\grupo_a\cryptococcus\CRYPTO POS 16.fcs
+Grupo A,cryptococcus,17,data\raw\grupo_a\cryptococcus\CRYPTO POS 17.fcs
+Grupo A,cryptococcus,18,data\raw\grupo_a\cryptococcus\CRYPTO POS 18.fcs
+Grupo A,cryptococcus,19,data\raw\grupo_a\cryptococcus\CRYPTO POS 19.fcs
+Grupo A,cryptococcus,20,data\raw\grupo_a\cryptococcus\CRYPTO POS 20.fcs
+Grupo A,fagocitose,11,data\raw\grupo_a\fagocitose\Animal 11 Fagocitose beads +.fcs
+Grupo A,fagocitose,11,data\raw\grupo_a\fagocitose\Animal 11 Fagocitose beads -.fcs
+Grupo A,fagocitose,12,data\raw\grupo_a\fagocitose\Animal 12 Fagocitose beads +.fcs
+Grupo A,fagocitose,12,data\raw\grupo_a\fagocitose\Animal 12 Fagocitose beads -.fcs
+Grupo A,fagocitose,13,data\raw\grupo_a\fagocitose\Animal 13 Fagocitose beads +.fcs
+Grupo A,fagocitose,13,data\raw\grupo_a\fagocitose\Animal 13 Fagocitose beads -.fcs
+Grupo A,fagocitose,14,data\raw\grupo_a\fagocitose\Animal 14 Fagocitose beads +.fcs
+Grupo A,fagocitose,14,data\raw\grupo_a\fagocitose\Animal 14 Fagocitose beads -.fcs
+Grupo A,fagocitose,15,data\raw\grupo_a\fagocitose\Animal 15 Fagocitose beads +.fcs
+Grupo A,fagocitose,15,data\raw\grupo_a\fagocitose\Animal 15 Fagocitose beads -.fcs
+Grupo A,fagocitose,16,data\raw\grupo_a\fagocitose\Animal 16 Fagocitose beads +.fcs
+Grupo A,fagocitose,16,data\raw\grupo_a\fagocitose\Animal 16 Fagocitose beads -.fcs
+Grupo A,fagocitose,17,data\raw\grupo_a\fagocitose\Animal 17 Fagocitose beads +.fcs
+Grupo A,fagocitose,17,data\raw\grupo_a\fagocitose\Animal 17 Fagocitose beads -.fcs
+Grupo A,fagocitose,18,data\raw\grupo_a\fagocitose\Animal 18 Fagocitose beads +.fcs
+Grupo A,fagocitose,18,data\raw\grupo_a\fagocitose\Animal 18 Fagocitose beads -.fcs
+Grupo A,fagocitose,19,data\raw\grupo_a\fagocitose\Animal 19 Fagocitose beads +.fcs
+Grupo A,fagocitose,19,data\raw\grupo_a\fagocitose\Animal 19 Fagocitose beads -.fcs
+Grupo A,fagocitose,20,data\raw\grupo_a\fagocitose\Animal 20 Fagocitose beads +.fcs
+Grupo A,fagocitose,20,data\raw\grupo_a\fagocitose\Animal 20 Fagocitose beads -.fcs
+Grupo A,imunofenotipagem,11,data\raw\grupo_a\imunofenotipagem\Animal 11 CD11b F480.fcs
+Grupo A,imunofenotipagem,11,data\raw\grupo_a\imunofenotipagem\Animal 11 nao-marcado CD11b F480.fcs
+Grupo A,imunofenotipagem,12,data\raw\grupo_a\imunofenotipagem\Animal 12 marcado CD11b F480.fcs
+Grupo A,imunofenotipagem,12,data\raw\grupo_a\imunofenotipagem\Animal 12 nao-marcado CD11b F480.fcs
+Grupo A,imunofenotipagem,13,data\raw\grupo_a\imunofenotipagem\Animal 13 marcado CD11b F480.fcs
+Grupo A,imunofenotipagem,13,data\raw\grupo_a\imunofenotipagem\Animal 13 nao-marcado CD11b F480.fcs
+Grupo A,imunofenotipagem,14,data\raw\grupo_a\imunofenotipagem\Animal 14 marcado CD11b F480.fcs
+Grupo A,imunofenotipagem,14,data\raw\grupo_a\imunofenotipagem\Animal 14 nao-marcado CD11b F480.fcs
+Grupo A,imunofenotipagem,15,data\raw\grupo_a\imunofenotipagem\Animal 15 marcado CD11b F480.fcs
+Grupo A,imunofenotipagem,15,data\raw\grupo_a\imunofenotipagem\Animal 15 nao-marcado CD11b F480.fcs
+Grupo A,imunofenotipagem,16,data\raw\grupo_a\imunofenotipagem\Animal 16 marcado CD11b F480.fcs
+Grupo A,imunofenotipagem,16,data\raw\grupo_a\imunofenotipagem\Animal 16 nao-marcado CD11b F480.fcs
+Grupo A,imunofenotipagem,17,data\raw\grupo_a\imunofenotipagem\Animal 17 marcado CD11b F480.fcs
+Grupo A,imunofenotipagem,17,data\raw\grupo_a\imunofenotipagem\Animal 17 nao-marcado CD11b F480.fcs
+Grupo A,imunofenotipagem,18,data\raw\grupo_a\imunofenotipagem\Animal 18 marcado CD11b F480.fcs
+Grupo A,imunofenotipagem,18,data\raw\grupo_a\imunofenotipagem\Animal 18 nao-marcado CD11b F480.fcs
+Grupo A,imunofenotipagem,19,data\raw\grupo_a\imunofenotipagem\Animal 19 marcado CD11b F480.fcs
+Grupo A,imunofenotipagem,19,data\raw\grupo_a\imunofenotipagem\Animal 19 nao-marcado CD11b F480.fcs
+Grupo A,imunofenotipagem,20,data\raw\grupo_a\imunofenotipagem\Animal 20 marcado CD11b F480.fcs
+Grupo A,imunofenotipagem,20,data\raw\grupo_a\imunofenotipagem\Animal 20 nao-marcado CD11b F480.fcs
+Grupo B,agonistas,21,data\raw\grupo_b\agonistas\02-BCG-21.fcs
+Grupo B,agonistas,22,data\raw\grupo_b\agonistas\02-BCG-22.fcs
+Grupo B,agonistas,23,data\raw\grupo_b\agonistas\02-BCG-23.fcs
+Grupo B,agonistas,24,data\raw\grupo_b\agonistas\02-BCG-24.fcs
+Grupo B,agonistas,25,data\raw\grupo_b\agonistas\02-BCG-25.fcs
+Grupo B,agonistas,26,data\raw\grupo_b\agonistas\02-BCG-26.fcs
+Grupo B,agonistas,27,data\raw\grupo_b\agonistas\02-BCG-27.fcs
+Grupo B,agonistas,28,data\raw\grupo_b\agonistas\02-BCG-28.fcs
+Grupo B,agonistas,29,data\raw\grupo_b\agonistas\02-BCG-29.fcs
+Grupo B,agonistas,30,data\raw\grupo_b\agonistas\02-BCG-30.fcs
+Grupo B,agonistas,21,data\raw\grupo_b\agonistas\02-HKLM-21.fcs
+Grupo B,agonistas,22,data\raw\grupo_b\agonistas\02-HKLM-22.fcs
+Grupo B,agonistas,23,data\raw\grupo_b\agonistas\02-HKLM-23.fcs
+Grupo B,agonistas,24,data\raw\grupo_b\agonistas\02-HKLM-24.fcs
+Grupo B,agonistas,25,data\raw\grupo_b\agonistas\02-HKLM-25.fcs
+Grupo B,agonistas,26,data\raw\grupo_b\agonistas\02-HKLM-26.fcs
+Grupo B,agonistas,27,data\raw\grupo_b\agonistas\02-HKLM-27.fcs
+Grupo B,agonistas,28,data\raw\grupo_b\agonistas\02-HKLM-28.fcs
+Grupo B,agonistas,29,data\raw\grupo_b\agonistas\02-HKLM-29.fcs
+Grupo B,agonistas,30,data\raw\grupo_b\agonistas\02-HKLM-30.fcs
+Grupo B,agonistas,21,data\raw\grupo_b\agonistas\02-LPS-21.fcs
+Grupo B,agonistas,22,data\raw\grupo_b\agonistas\02-LPS-22.fcs
+Grupo B,agonistas,23,data\raw\grupo_b\agonistas\02-LPS-23.fcs
+Grupo B,agonistas,24,data\raw\grupo_b\agonistas\02-LPS-24.fcs
+Grupo B,agonistas,25,data\raw\grupo_b\agonistas\02-LPS-25.fcs
+Grupo B,agonistas,26,data\raw\grupo_b\agonistas\02-LPS-26.fcs
+Grupo B,agonistas,27,data\raw\grupo_b\agonistas\02-LPS-27.fcs
+Grupo B,agonistas,28,data\raw\grupo_b\agonistas\02-LPS-28.fcs
+Grupo B,agonistas,29,data\raw\grupo_b\agonistas\02-LPS-29.fcs
+Grupo B,agonistas,30,data\raw\grupo_b\agonistas\02-LPS-30.fcs
+Grupo B,agonistas,,data\raw\grupo_b\agonistas\02-NM2-B12.fcs
+Grupo B,agonistas,21,data\raw\grupo_b\agonistas\02-ODN-21.fcs
+Grupo B,agonistas,22,data\raw\grupo_b\agonistas\02-ODN-22.fcs
+Grupo B,agonistas,23,data\raw\grupo_b\agonistas\02-ODN-23.fcs
+Grupo B,agonistas,24,data\raw\grupo_b\agonistas\02-ODN-24.fcs
+Grupo B,agonistas,25,data\raw\grupo_b\agonistas\02-ODN-25.fcs
+Grupo B,agonistas,26,data\raw\grupo_b\agonistas\02-ODN-26.fcs
+Grupo B,agonistas,27,data\raw\grupo_b\agonistas\02-ODN-27.fcs
+Grupo B,agonistas,28,data\raw\grupo_b\agonistas\02-ODN-28.fcs
+Grupo B,agonistas,29,data\raw\grupo_b\agonistas\02-ODN-29.fcs
+Grupo B,agonistas,30,data\raw\grupo_b\agonistas\02-ODN-30.fcs
+Grupo B,agonistas,21,data\raw\grupo_b\agonistas\02-PAM3-21.fcs
+Grupo B,agonistas,22,data\raw\grupo_b\agonistas\02-PAM3-22.fcs
+Grupo B,agonistas,23,data\raw\grupo_b\agonistas\02-PAM3-23.fcs
+Grupo B,agonistas,24,data\raw\grupo_b\agonistas\02-PAM3-24.fcs
+Grupo B,agonistas,25,data\raw\grupo_b\agonistas\02-PAM3-25.fcs
+Grupo B,agonistas,26,data\raw\grupo_b\agonistas\02-PAM3-26.fcs
+Grupo B,agonistas,27,data\raw\grupo_b\agonistas\02-PAM3-27.fcs
+Grupo B,agonistas,28,data\raw\grupo_b\agonistas\02-PAM3-28.fcs
+Grupo B,agonistas,29,data\raw\grupo_b\agonistas\02-PAM3-29.fcs
+Grupo B,agonistas,30,data\raw\grupo_b\agonistas\02-PAM3-30.fcs
+Grupo B,agonistas,21,data\raw\grupo_b\agonistas\02-PBS-21.fcs
+Grupo B,agonistas,22,data\raw\grupo_b\agonistas\02-PBS-22.fcs
+Grupo B,agonistas,23,data\raw\grupo_b\agonistas\02-PBS-23.fcs
+Grupo B,agonistas,24,data\raw\grupo_b\agonistas\02-PBS-24.fcs
+Grupo B,agonistas,25,data\raw\grupo_b\agonistas\02-PBS-25.fcs
+Grupo B,agonistas,26,data\raw\grupo_b\agonistas\02-PBS-26.fcs
+Grupo B,agonistas,27,data\raw\grupo_b\agonistas\02-PBS-27.fcs
+Grupo B,agonistas,28,data\raw\grupo_b\agonistas\02-PBS-28.fcs
+Grupo B,agonistas,29,data\raw\grupo_b\agonistas\02-PBS-29.fcs
+Grupo B,agonistas,30,data\raw\grupo_b\agonistas\02-PBS-30.fcs
+Grupo B,agonistas,21,data\raw\grupo_b\agonistas\02-POLYIC-21.fcs
+Grupo B,agonistas,22,data\raw\grupo_b\agonistas\02-POLYIC-22.fcs
+Grupo B,agonistas,23,data\raw\grupo_b\agonistas\02-POLYIC-23.fcs
+Grupo B,agonistas,24,data\raw\grupo_b\agonistas\02-POLYIC-24.fcs
+Grupo B,agonistas,25,data\raw\grupo_b\agonistas\02-POLYIC-25.fcs
+Grupo B,agonistas,26,data\raw\grupo_b\agonistas\02-POLYIC-26.fcs
+Grupo B,agonistas,27,data\raw\grupo_b\agonistas\02-POLYIC-27.fcs
+Grupo B,agonistas,28,data\raw\grupo_b\agonistas\02-POLYIC-28.fcs
+Grupo B,agonistas,29,data\raw\grupo_b\agonistas\02-POLYIC-29.fcs
+Grupo B,agonistas,30,data\raw\grupo_b\agonistas\02-POLYIC-30.fcs
+Grupo B,agonistas,21,data\raw\grupo_b\agonistas\02-ZYM-21.fcs
+Grupo B,agonistas,22,data\raw\grupo_b\agonistas\02-ZYM-22.fcs
+Grupo B,agonistas,23,data\raw\grupo_b\agonistas\02-ZYM-23.fcs
+Grupo B,agonistas,24,data\raw\grupo_b\agonistas\02-ZYM-24.fcs
+Grupo B,agonistas,25,data\raw\grupo_b\agonistas\02-ZYM-25.fcs
+Grupo B,agonistas,26,data\raw\grupo_b\agonistas\02-ZYM-26.fcs
+Grupo B,agonistas,27,data\raw\grupo_b\agonistas\02-ZYM-27.fcs
+Grupo B,agonistas,28,data\raw\grupo_b\agonistas\02-ZYM-28.fcs
+Grupo B,agonistas,29,data\raw\grupo_b\agonistas\02-ZYM-29.fcs
+Grupo B,agonistas,30,data\raw\grupo_b\agonistas\02-ZYM-30.fcs
+Grupo B,cryptococcus,26,data\raw\grupo_b\cryptococcus\BCG NEG 26.fcs
+Grupo B,cryptococcus,27,data\raw\grupo_b\cryptococcus\BCG NEG 27.fcs
+Grupo B,cryptococcus,28,data\raw\grupo_b\cryptococcus\BCG NEG 28.fcs
+Grupo B,cryptococcus,29,data\raw\grupo_b\cryptococcus\BCG NEG 29.fcs
+Grupo B,cryptococcus,30,data\raw\grupo_b\cryptococcus\BCG NEG 30.fcs
+Grupo B,cryptococcus,26,data\raw\grupo_b\cryptococcus\BCG POS 26.fcs
+Grupo B,cryptococcus,27,data\raw\grupo_b\cryptococcus\BCG POS 27.fcs
+Grupo B,cryptococcus,28,data\raw\grupo_b\cryptococcus\BCG POS 28.fcs
+Grupo B,cryptococcus,29,data\raw\grupo_b\cryptococcus\BCG POS 29.fcs
+Grupo B,cryptococcus,30,data\raw\grupo_b\cryptococcus\BCG POS 30.fcs
+Grupo B,cryptococcus,21,data\raw\grupo_b\cryptococcus\PBS NEG 21.fcs
+Grupo B,cryptococcus,22,data\raw\grupo_b\cryptococcus\PBS NEG 22.fcs
+Grupo B,cryptococcus,23,data\raw\grupo_b\cryptococcus\PBS NEG 23.fcs
+Grupo B,cryptococcus,24,data\raw\grupo_b\cryptococcus\PBS NEG 24.fcs
+Grupo B,cryptococcus,25,data\raw\grupo_b\cryptococcus\PBS NEG 25.fcs
+Grupo B,cryptococcus,21,data\raw\grupo_b\cryptococcus\PBS POS 21.fcs
+Grupo B,cryptococcus,22,data\raw\grupo_b\cryptococcus\PBS POS 22.fcs
+Grupo B,cryptococcus,23,data\raw\grupo_b\cryptococcus\PBS POS 23.fcs
+Grupo B,cryptococcus,24,data\raw\grupo_b\cryptococcus\PBS POS 24.fcs
+Grupo B,cryptococcus,25,data\raw\grupo_b\cryptococcus\PBS POS 25.fcs
+Grupo B,fagocitose,21,data\raw\grupo_b\fagocitose\Animal 21 fagoci beads NEG.fcs
+Grupo B,fagocitose,21,data\raw\grupo_b\fagocitose\Animal 21 fagoci beads POS.fcs
+Grupo B,fagocitose,22,data\raw\grupo_b\fagocitose\Animal 22 fagoci beads NEG.fcs
+Grupo B,fagocitose,22,data\raw\grupo_b\fagocitose\Animal 22 fagoci beads POS.fcs
+Grupo B,fagocitose,23,data\raw\grupo_b\fagocitose\Animal 23 fagoci beads NEG.fcs
+Grupo B,fagocitose,23,data\raw\grupo_b\fagocitose\Animal 23 fagoci beads POS.fcs
+Grupo B,fagocitose,24,data\raw\grupo_b\fagocitose\Animal 24 fagoci beads NEG.fcs
+Grupo B,fagocitose,24,data\raw\grupo_b\fagocitose\Animal 24 fagoci beads POS.fcs
+Grupo B,fagocitose,25,data\raw\grupo_b\fagocitose\Animal 25 fagoci beads NEG.fcs
+Grupo B,fagocitose,25,data\raw\grupo_b\fagocitose\Animal 25 fagoci beads POS.fcs
+Grupo B,fagocitose,26,data\raw\grupo_b\fagocitose\Animal 26 fagoci beads NEG.fcs
+Grupo B,fagocitose,26,data\raw\grupo_b\fagocitose\Animal 26 fagoci beads POS.fcs
+Grupo B,fagocitose,27,data\raw\grupo_b\fagocitose\Animal 27 fagoci beads NEG.fcs
+Grupo B,fagocitose,27,data\raw\grupo_b\fagocitose\Animal 27 fagoci beads POS.fcs
+Grupo B,fagocitose,28,data\raw\grupo_b\fagocitose\Animal 28 fagoci beads NEG.fcs
+Grupo B,fagocitose,28,data\raw\grupo_b\fagocitose\Animal 28 fagoci beads POS.fcs
+Grupo B,fagocitose,29,data\raw\grupo_b\fagocitose\Animal 29 fagoci beads NEG.fcs
+Grupo B,fagocitose,29,data\raw\grupo_b\fagocitose\Animal 29 fagoci beads POS.fcs
+Grupo B,fagocitose,30,data\raw\grupo_b\fagocitose\Animal 30 fagoci beads NEG.fcs
+Grupo B,fagocitose,30,data\raw\grupo_b\fagocitose\Animal 30 fagoci beads POS.fcs
+Grupo B,imunofenotipagem,21,data\raw\grupo_b\imunofenotipagem\FENOT 21.fcs
+Grupo B,imunofenotipagem,22,data\raw\grupo_b\imunofenotipagem\FENOT 22.fcs
+Grupo B,imunofenotipagem,23,data\raw\grupo_b\imunofenotipagem\FENOT 23.fcs
+Grupo B,imunofenotipagem,24,data\raw\grupo_b\imunofenotipagem\FENOT 24.fcs
+Grupo B,imunofenotipagem,25,data\raw\grupo_b\imunofenotipagem\FENOT 25.fcs
+Grupo B,imunofenotipagem,26,data\raw\grupo_b\imunofenotipagem\FENOT 26.fcs
+Grupo B,imunofenotipagem,27,data\raw\grupo_b\imunofenotipagem\FENOT 27.fcs
+Grupo B,imunofenotipagem,28,data\raw\grupo_b\imunofenotipagem\FENOT 28.fcs
+Grupo B,imunofenotipagem,29,data\raw\grupo_b\imunofenotipagem\FENOT 29.fcs
+Grupo B,imunofenotipagem,30,data\raw\grupo_b\imunofenotipagem\FENOT 30.fcs
+Grupo C,agonistas,31,data\raw\grupo_c\agonistas\AGO BCG 31.fcs
+Grupo C,agonistas,32,data\raw\grupo_c\agonistas\AGO BCG 32.fcs
+Grupo C,agonistas,33,data\raw\grupo_c\agonistas\AGO BCG 33.fcs
+Grupo C,agonistas,34,data\raw\grupo_c\agonistas\AGO BCG 34.fcs
+Grupo C,agonistas,35,data\raw\grupo_c\agonistas\AGO BCG 35.fcs
+Grupo C,agonistas,36,data\raw\grupo_c\agonistas\AGO BCG 36.fcs
+Grupo C,agonistas,37,data\raw\grupo_c\agonistas\AGO BCG 37.fcs
+Grupo C,agonistas,38,data\raw\grupo_c\agonistas\AGO BCG 38.fcs
+Grupo C,agonistas,39,data\raw\grupo_c\agonistas\AGO BCG 39.fcs
+Grupo C,agonistas,40,data\raw\grupo_c\agonistas\AGO BCG 40.fcs
+Grupo C,agonistas,31,data\raw\grupo_c\agonistas\AGO HKLM 31.fcs
+Grupo C,agonistas,32,data\raw\grupo_c\agonistas\AGO HKLM 32.fcs
+Grupo C,agonistas,33,data\raw\grupo_c\agonistas\AGO HKLM 33.fcs
+Grupo C,agonistas,34,data\raw\grupo_c\agonistas\AGO HKLM 34.fcs
+Grupo C,agonistas,35,data\raw\grupo_c\agonistas\AGO HKLM 35.fcs
+Grupo C,agonistas,36,data\raw\grupo_c\agonistas\AGO HKLM 36.fcs
+Grupo C,agonistas,37,data\raw\grupo_c\agonistas\AGO HKLM 37.fcs
+Grupo C,agonistas,38,data\raw\grupo_c\agonistas\AGO HKLM 38.fcs
+Grupo C,agonistas,39,data\raw\grupo_c\agonistas\AGO HKLM 39.fcs
+Grupo C,agonistas,40,data\raw\grupo_c\agonistas\AGO HKLM 40.fcs
+Grupo C,agonistas,31,data\raw\grupo_c\agonistas\AGO LPS 31.fcs
+Grupo C,agonistas,32,data\raw\grupo_c\agonistas\AGO LPS 32.fcs
+Grupo C,agonistas,33,data\raw\grupo_c\agonistas\AGO LPS 33.fcs
+Grupo C,agonistas,34,data\raw\grupo_c\agonistas\AGO LPS 34.fcs
+Grupo C,agonistas,35,data\raw\grupo_c\agonistas\AGO LPS 35.fcs
+Grupo C,agonistas,36,data\raw\grupo_c\agonistas\AGO LPS 36.fcs
+Grupo C,agonistas,37,data\raw\grupo_c\agonistas\AGO LPS 37.fcs
+Grupo C,agonistas,38,data\raw\grupo_c\agonistas\AGO LPS 38.fcs
+Grupo C,agonistas,39,data\raw\grupo_c\agonistas\AGO LPS 39.fcs
+Grupo C,agonistas,40,data\raw\grupo_c\agonistas\AGO LPS 40.fcs
+Grupo C,agonistas,31,data\raw\grupo_c\agonistas\AGO ODN 31.fcs
+Grupo C,agonistas,32,data\raw\grupo_c\agonistas\AGO ODN 32.fcs
+Grupo C,agonistas,33,data\raw\grupo_c\agonistas\AGO ODN 33.fcs
+Grupo C,agonistas,34,data\raw\grupo_c\agonistas\AGO ODN 34.fcs
+Grupo C,agonistas,35,data\raw\grupo_c\agonistas\AGO ODN 35.fcs
+Grupo C,agonistas,36,data\raw\grupo_c\agonistas\AGO ODN 36.fcs
+Grupo C,agonistas,37,data\raw\grupo_c\agonistas\AGO ODN 37.fcs
+Grupo C,agonistas,38,data\raw\grupo_c\agonistas\AGO ODN 38.fcs
+Grupo C,agonistas,39,data\raw\grupo_c\agonistas\AGO ODN 39.fcs
+Grupo C,agonistas,40,data\raw\grupo_c\agonistas\AGO ODN 40.fcs
+Grupo C,agonistas,32,data\raw\grupo_c\agonistas\AGO PAM3 32.fcs
+Grupo C,agonistas,33,data\raw\grupo_c\agonistas\AGO PAM3 33.fcs
+Grupo C,agonistas,34,data\raw\grupo_c\agonistas\AGO PAM3 34.fcs
+Grupo C,agonistas,35,data\raw\grupo_c\agonistas\AGO PAM3 35.fcs
+Grupo C,agonistas,36,data\raw\grupo_c\agonistas\AGO PAM3 36.fcs
+Grupo C,agonistas,37,data\raw\grupo_c\agonistas\AGO PAM3 37.fcs
+Grupo C,agonistas,38,data\raw\grupo_c\agonistas\AGO PAM3 38.fcs
+Grupo C,agonistas,39,data\raw\grupo_c\agonistas\AGO PAM3 39.fcs
+Grupo C,agonistas,40,data\raw\grupo_c\agonistas\AGO PAM3 40.fcs
+Grupo C,agonistas,31,data\raw\grupo_c\agonistas\AGO PAM3. 31.fcs
+Grupo C,agonistas,31,data\raw\grupo_c\agonistas\AGO PBS 31.fcs
+Grupo C,agonistas,32,data\raw\grupo_c\agonistas\AGO PBS 32.fcs
+Grupo C,agonistas,33,data\raw\grupo_c\agonistas\AGO PBS 33.fcs
+Grupo C,agonistas,34,data\raw\grupo_c\agonistas\AGO PBS 34.fcs
+Grupo C,agonistas,35,data\raw\grupo_c\agonistas\AGO PBS 35.fcs
+Grupo C,agonistas,36,data\raw\grupo_c\agonistas\AGO PBS 36.fcs
+Grupo C,agonistas,37,data\raw\grupo_c\agonistas\AGO PBS 37.fcs
+Grupo C,agonistas,38,data\raw\grupo_c\agonistas\AGO PBS 38.fcs
+Grupo C,agonistas,39,data\raw\grupo_c\agonistas\AGO PBS 39.fcs
+Grupo C,agonistas,40,data\raw\grupo_c\agonistas\AGO PBS 40.fcs
+Grupo C,agonistas,31,data\raw\grupo_c\agonistas\AGO POLYIC 31.fcs
+Grupo C,agonistas,32,data\raw\grupo_c\agonistas\AGO POLYIC 32.fcs
+Grupo C,agonistas,33,data\raw\grupo_c\agonistas\AGO POLYIC 33.fcs
+Grupo C,agonistas,34,data\raw\grupo_c\agonistas\AGO POLYIC 34.fcs
+Grupo C,agonistas,35,data\raw\grupo_c\agonistas\AGO POLYIC 35.fcs
+Grupo C,agonistas,36,data\raw\grupo_c\agonistas\AGO POLYIC 36.fcs
+Grupo C,agonistas,37,data\raw\grupo_c\agonistas\AGO POLYIC 37.fcs
+Grupo C,agonistas,38,data\raw\grupo_c\agonistas\AGO POLYIC 38.fcs
+Grupo C,agonistas,39,data\raw\grupo_c\agonistas\AGO POLYIC 39.fcs
+Grupo C,agonistas,40,data\raw\grupo_c\agonistas\AGO POLYIC 40.fcs
+Grupo C,agonistas,31,data\raw\grupo_c\agonistas\AGO ZYM 31.fcs
+Grupo C,agonistas,32,data\raw\grupo_c\agonistas\AGO ZYM 32.fcs
+Grupo C,agonistas,33,data\raw\grupo_c\agonistas\AGO ZYM 33.fcs
+Grupo C,agonistas,34,data\raw\grupo_c\agonistas\AGO ZYM 34.fcs
+Grupo C,agonistas,35,data\raw\grupo_c\agonistas\AGO ZYM 35.fcs
+Grupo C,agonistas,36,data\raw\grupo_c\agonistas\AGO ZYM 36.fcs
+Grupo C,agonistas,37,data\raw\grupo_c\agonistas\AGO ZYM 37.fcs
+Grupo C,agonistas,38,data\raw\grupo_c\agonistas\AGO ZYM 38.fcs
+Grupo C,agonistas,39,data\raw\grupo_c\agonistas\AGO ZYM 39.fcs
+Grupo C,agonistas,40,data\raw\grupo_c\agonistas\AGO ZYM 40.fcs
+Grupo C,cryptococcus,31,data\raw\grupo_c\cryptococcus\CRYPTO NEG 31.fcs
+Grupo C,cryptococcus,32,data\raw\grupo_c\cryptococcus\CRYPTO NEG 32.fcs
+Grupo C,cryptococcus,33,data\raw\grupo_c\cryptococcus\CRYPTO NEG 33.fcs
+Grupo C,cryptococcus,34,data\raw\grupo_c\cryptococcus\CRYPTO NEG 34.fcs
+Grupo C,cryptococcus,35,data\raw\grupo_c\cryptococcus\CRYPTO NEG 35.fcs
+Grupo C,cryptococcus,36,data\raw\grupo_c\cryptococcus\CRYPTO NEG 36.fcs
+Grupo C,cryptococcus,37,data\raw\grupo_c\cryptococcus\CRYPTO NEG 37.fcs
+Grupo C,cryptococcus,38,data\raw\grupo_c\cryptococcus\CRYPTO NEG 38.fcs
+Grupo C,cryptococcus,39,data\raw\grupo_c\cryptococcus\CRYPTO NEG 39.fcs
+Grupo C,cryptococcus,40,data\raw\grupo_c\cryptococcus\CRYPTO NEG 40.fcs
+Grupo C,cryptococcus,31,data\raw\grupo_c\cryptococcus\CRYPTO POS 31.fcs
+Grupo C,cryptococcus,32,data\raw\grupo_c\cryptococcus\CRYPTO POS 32.fcs
+Grupo C,cryptococcus,33,data\raw\grupo_c\cryptococcus\CRYPTO POS 33.fcs
+Grupo C,cryptococcus,34,data\raw\grupo_c\cryptococcus\CRYPTO POS 34.fcs
+Grupo C,cryptococcus,35,data\raw\grupo_c\cryptococcus\CRYPTO POS 35.fcs
+Grupo C,cryptococcus,36,data\raw\grupo_c\cryptococcus\CRYPTO POS 36.fcs
+Grupo C,cryptococcus,37,data\raw\grupo_c\cryptococcus\CRYPTO POS 37.fcs
+Grupo C,cryptococcus,38,data\raw\grupo_c\cryptococcus\CRYPTO POS 38.fcs
+Grupo C,cryptococcus,39,data\raw\grupo_c\cryptococcus\CRYPTO POS 39.fcs
+Grupo C,cryptococcus,40,data\raw\grupo_c\cryptococcus\CRYPTO POS 40.fcs
+Grupo C,fagocitose,31,data\raw\grupo_c\fagocitose\FAGO NEG 31.fcs
+Grupo C,fagocitose,32,data\raw\grupo_c\fagocitose\FAGO NEG 32.fcs
+Grupo C,fagocitose,33,data\raw\grupo_c\fagocitose\FAGO NEG 33.fcs
+Grupo C,fagocitose,34,data\raw\grupo_c\fagocitose\FAGO NEG 34.fcs
+Grupo C,fagocitose,35,data\raw\grupo_c\fagocitose\FAGO NEG 35.fcs
+Grupo C,fagocitose,36,data\raw\grupo_c\fagocitose\FAGO NEG 36.fcs
+Grupo C,fagocitose,37,data\raw\grupo_c\fagocitose\FAGO NEG 37.fcs
+Grupo C,fagocitose,38,data\raw\grupo_c\fagocitose\FAGO NEG 38.fcs
+Grupo C,fagocitose,40,data\raw\grupo_c\fagocitose\FAGO NEG 40.fcs
+Grupo C,fagocitose,31,data\raw\grupo_c\fagocitose\FAGO POS 31.fcs
+Grupo C,fagocitose,32,data\raw\grupo_c\fagocitose\FAGO POS 32.fcs
+Grupo C,fagocitose,33,data\raw\grupo_c\fagocitose\FAGO POS 33.fcs
+Grupo C,fagocitose,34,data\raw\grupo_c\fagocitose\FAGO POS 34.fcs
+Grupo C,fagocitose,35,data\raw\grupo_c\fagocitose\FAGO POS 35.fcs
+Grupo C,fagocitose,36,data\raw\grupo_c\fagocitose\FAGO POS 36.fcs
+Grupo C,fagocitose,37,data\raw\grupo_c\fagocitose\FAGO POS 37.fcs
+Grupo C,fagocitose,38,data\raw\grupo_c\fagocitose\FAGO POS 38.fcs
+Grupo C,fagocitose,39,data\raw\grupo_c\fagocitose\FAGO POS 39.fcs
+Grupo C,fagocitose,40,data\raw\grupo_c\fagocitose\FAGO POS 40.fcs
+Grupo C,imunofenotipagem,31,data\raw\grupo_c\imunofenotipagem\AN 31.fcs
+Grupo C,imunofenotipagem,32,data\raw\grupo_c\imunofenotipagem\AN 32.fcs
+Grupo C,imunofenotipagem,33,data\raw\grupo_c\imunofenotipagem\AN 33.fcs
+Grupo C,imunofenotipagem,34,data\raw\grupo_c\imunofenotipagem\AN 34.fcs
+Grupo C,imunofenotipagem,35,data\raw\grupo_c\imunofenotipagem\AN 35.fcs
+Grupo C,imunofenotipagem,36,data\raw\grupo_c\imunofenotipagem\AN 36.fcs
+Grupo C,imunofenotipagem,37,data\raw\grupo_c\imunofenotipagem\AN 37.fcs
+Grupo C,imunofenotipagem,38,data\raw\grupo_c\imunofenotipagem\AN 38.fcs
+Grupo C,imunofenotipagem,39,data\raw\grupo_c\imunofenotipagem\AN 39.fcs
+Grupo C,imunofenotipagem,40,data\raw\grupo_c\imunofenotipagem\AN 40.fcs

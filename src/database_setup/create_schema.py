@@ -7,8 +7,6 @@ def create_database_schema():
     Cria o arquivo do banco de dados e todas as tabelas necessárias com base na arquitetura Mestra-Detalhes
     """
 
-# Constrói caminho para o arquivo do banco
-# Sobre dois níveis e entra em database\experimentos.db
 db_path = Path(__file__).resolve().parent.parent.parent / "database" / "experimentos.db"
 
 # Garante que o diretório 'database' exista
@@ -27,7 +25,7 @@ CREATE TABLE IF NOT EXISTS grupos (
 CREATE TABLE IF NOT EXISTS experimentos_master (
     id_experimento INTEGER PRIMARY KEY,
     id_grupo INTEGER NOT NULL,
-    data_experimento TEXT NOT NULL,
+    data_experimento TEXT,
     tipo_ensaio TEXT NOT NULL,
     id_detalhe_ensaio INTEGER NOT NULL,
     FOREIGN KEY (id_grupo) REFERENCES grupos (id_grupo)
@@ -37,25 +35,29 @@ CREATE TABLE IF NOT EXISTS experimentos_master (
 
 CREATE TABLE IF NOT EXISTS detalhes_agonistas (
     id_agonista INTEGER PRIMARY KEY,
-    condicao TEXT NOT NULL,
+    id_animal INTEGER,
+    condicao TEXT,
     arquivo_de_resultado TEXT NOT NULL
 );
 
 CREATE TABLE IF NOT EXISTS detalhes_cryptococcus (
-    id_agonista INTEGER PRIMARY KEY,
-    condicao TEXT NOT NULL,
+    id_cryptococcus INTEGER PRIMARY KEY,
+    id_animal INTEGER,
+    condicao TEXT,
     arquivo_de_resultado TEXT NOT NULL
 );
 
 CREATE TABLE IF NOT EXISTS detalhes_fagocitose (
-    id_agonista INTEGER PRIMARY KEY,
-    condicao TEXT NOT NULL,
+    id_fagocitose INTEGER PRIMARY KEY,
+    id_animal INTEGER,
+    condicao TEXT,
     arquivo_de_resultado TEXT NOT NULL
 );
 
 CREATE TABLE IF NOT EXISTS detalhes_imunofenotipagem (
-    id_agonista INTEGER PRIMARY KEY,
-    condicao TEXT NOT NULL,
+    id_imunofenotipagem INTEGER PRIMARY KEY,
+    id_animal INTEGER,
+    condicao TEXT,
     arquivo_de_resultado TEXT NOT NULL
 );
 
