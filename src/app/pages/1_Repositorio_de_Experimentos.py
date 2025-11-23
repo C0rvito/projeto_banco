@@ -110,11 +110,10 @@ if grupo_sel:
                 id_animal, caminho_relativo_str, condicao = linha
                 
                 # Constrói o caminho absoluto para leitura do arquivo
-                # PASTA_SRC é .../src
-                # O pai dela é a raiz do projeto (.../projeto_banco)
+                caminho_limpo = caminho_relativo_str.replace('\\', '/')
                 dir_raiz_projeto = PASTA_SRC.parent
-                caminho_absoluto = dir_raiz_projeto / caminho_relativo_str
-                nome_arquivo = Path(caminho_relativo_str).name
+                caminho_absoluto = dir_raiz_projeto / caminho_limpo
+                nome_arquivo = Path(caminho_limpo).name
 
                 # Colunas da Linha
                 c1, c2, c3, c4 = st.columns([1, 2, 4, 2])
