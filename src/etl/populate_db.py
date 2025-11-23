@@ -1,7 +1,7 @@
 import pandas as pd
 from pathlib import Path
 import sqlite3
-from funcoes.db_tools import conectaDB, escrita, leitura
+from funcoes.db_tools import  escrita, leitura
 
 script_dir = Path(__file__).resolve().parent
 
